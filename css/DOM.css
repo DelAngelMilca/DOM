@@ -1,0 +1,13 @@
+div { 
+		
+	border: 8px solid purple;
+	padding:10px 20px;
+	background:pink;
+}
+p {
+	background: #ffffff;
+	text-align: center;
+	border:8px dashed green;
+	padding:10px 20px;
+
+}
